@@ -19,4 +19,4 @@ A simple Currency Converter web application that allows users to manually input 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/simranwaswani/currency-converter.git
